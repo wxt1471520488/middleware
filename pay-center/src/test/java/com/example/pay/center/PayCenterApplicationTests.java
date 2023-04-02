@@ -1,13 +1,13 @@
-package com.wangxt.middleware;
+package com.example.pay.center;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MiddlewareApplicationTests {
+class PayCenterApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
